@@ -65,3 +65,8 @@ Redeem yapmayı unutmayın. Farm yaptıktan 10-15 dk sonra yapabiliyorsunuz.
 Uygulamayı çalıştırın, indirdiğiniz lisansı uygulama üzerinden çalıştırın.
 
 İlk ödülüm 1-2 gün sonra xDın olarak geldi. Bnb otomatik yollanıyor o yüzden neden gelmedi diye sormanıza gerek yok.
+
+
+# Delegate
+
+https://github.com/aliorala/DIN-Node/issues/4#issuecomment-2408865665
