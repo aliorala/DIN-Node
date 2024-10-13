@@ -18,6 +18,8 @@
 - Laptop & PC &
 
 
+> Adım 1
+
  1- Faucetten USDT [alalım](https://testnet.bscscan.com/address/0xe85c42361c9726ed2bc567d8301308971de409e4#writeContract)
 
 > <img alt="" width="960" src="https://private-user-images.githubusercontent.com/116645708/376014297-16b679ec-8287-4436-93f4-7ff26f799197.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg4MDI2MTksIm5iZiI6MTcyODgwMjMxOSwicGF0aCI6Ii8xMTY2NDU3MDgvMzc2MDE0Mjk3LTE2YjY3OWVjLTgyODctNDQzNi05M2Y0LTdmZjI2Zjc5OTE5Ny5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAxM1QwNjUxNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMzNhZmFiN2ZlMTc1YjVhYmI5ZGZlZTkzMDY3MzExZWUwZWNlMjUwNTlhNWY0ODI1OTQzNmY5OTMxYzAwMTBhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.BTfEgmu6LsPxhJKvZNFf1y-nT_qRvwWRkOIT43wMaLo">
@@ -31,8 +33,12 @@ Claim tuşuyla günlük 100 USDT alabilirsiniz.
 
  2- Faucetten BNB [alalım](https://www.bnbchain.org/en/testnet-faucet)
 
- 3- Formu [dolduralım](https://bit.ly/TestWaferRequestForm)
+ 3- Formu [dolduralım](https://bit.ly/TestWaferRequestForm) Dınn ekibi Wafer yollacayacak bazen 1 gün sürebilriyor.
 
  4- https://node-dev.din.lol/ sayfasına bağlanalım. Referans numarasına 009ec5 yazabilirsiniz
 
  5- Node satın alın
+
+<img width="912" alt="" src="https://github.com/user-attachments/assets/3e3a0ca0-d3f4-4de6-9e8a-dae08622667d">
+
+6- 
