@@ -17,8 +17,9 @@
 - 2+ MBit/sec download Internet service
 - Laptop & PC &
 
+>
 
-> Adım 1
+# Test Hazırlığı
 
  1- Faucetten USDT [alalım](https://testnet.bscscan.com/address/0xe85c42361c9726ed2bc567d8301308971de409e4#writeContract)
 
@@ -37,8 +38,30 @@ Claim tuşuyla günlük 100 USDT alabilirsiniz.
 
  4- https://node-dev.din.lol/ sayfasına bağlanalım. Referans numarasına 009ec5 yazabilirsiniz
 
- 5- Node satın alın
+ 5- Node satın alın (Tier 2 alabiliyorsunuz. Diğerlerini boşuna almayın puan ben tier 4 aldım puan vermedi. Tier 2 iyi.)
 
 <img width="912" alt="" src="https://github.com/user-attachments/assets/3e3a0ca0-d3f4-4de6-9e8a-dae08622667d">
 
-6- 
+
+
+# Farm xDIN
+
+> Waferlar geldikten sonra farm yapmanız gerekiyor. (gönderdiğimiz form) 
+
+<img width="913" alt="dın farm" src="https://github.com/user-attachments/assets/8a322759-d346-442a-a46a-a7ced41aed69">
+
+Redeem yapmayı unutmayın. Farm yaptıktan 10-15 dk sonra yapabiliyorsunuz.
+
+<img width="776" alt="sil" src="https://github.com/user-attachments/assets/6805f8b1-ef62-45c9-b703-ec0fc34c0389">
+
+
+
+# Node Çalıştırma
+
+[Buradan](https://github.com/web3go-xyz/chipper-node-miner-release/releases/download/v1.0.0/din-chipper-node-app-windows-amd64-gui.exe) windows için olanı indirin.
+
+[Mynode](https://node-dev.din.lol/mynode) sayfasına gidin ve download licence ile lisansı indirin.
+
+Uygulamayı çalıştırın, indirdiğiniz lisansı uygulama üzerinden çalıştırın.
+
+İlk ödülüm 1-2 gün sonra xDın olarak geldi. Bnb otomatik yollanıyor o yüzden neden gelmedi diye sormanıza gerek yok.
